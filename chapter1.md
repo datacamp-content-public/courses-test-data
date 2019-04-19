@@ -17,7 +17,7 @@ skills: 1
 This is an example exercise. The aim is to load data and analyze times series.
 
 `@instructions`
-List all the variable whith list() function.
+List all the variable with list() function.
 Load csv file.
 
 `@hint`
@@ -26,6 +26,10 @@ Load csv file.
 `@pre_exercise_code`
 ```{r}
 global_temp <- read.csv("DAX_2019-04-12.csv")
+global_temp.info()
+plot(global_temp)
+
+ls()
 
 ```
 
