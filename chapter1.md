@@ -16,7 +16,7 @@ skills: 1
 This is an example exercise. The aim is to load data and analyze times series. 
 
 `@instructions`
-
+List all the variable whith list() function.
 
 `@hint`
 
