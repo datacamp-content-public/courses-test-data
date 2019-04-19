@@ -1,6 +1,7 @@
 ---
 title: 'Data Loading'
 description: 'Import CSV Data'
+free_preview: true
 ---
 
 ## Example coding exercise
