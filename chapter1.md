@@ -33,6 +33,7 @@ This is an example exercise. The aim is to load data and analyze times series.
 
 `@solution`
 ```{r}
+ls()
 
 ```
 
