@@ -18,12 +18,14 @@ This is an example exercise. The aim is to load data and analyze times series.
 
 `@instructions`
 List all the variable whith list() function.
+Load csv file.
 
 `@hint`
 
 
 `@pre_exercise_code`
 ```{r}
+global_temp <- read.csv("DAX_2019-04-12.csv")
 
 ```
 
