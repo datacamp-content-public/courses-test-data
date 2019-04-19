@@ -19,6 +19,7 @@ This is an example exercise. The aim is to load data and analyze times series.
 `@instructions`
 List all the variable with list() function.
 Load csv file.
+plot data.
 
 `@hint`
 
