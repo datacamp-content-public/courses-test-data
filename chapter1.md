@@ -32,6 +32,7 @@ plot(global_temp)
 
 ls()
 
+
 ```
 
 `@sample_code`
